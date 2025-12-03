@@ -1,0 +1,30 @@
+### Emojify - Hungry
+POST http://localhost:8000/emojify
+Content-Type: application/json
+
+{"text": "I'm hungry"}
+
+### Emojify - Happy
+POST http://localhost:8000/emojify
+Content-Type: application/json
+
+{"text": "I'm so happy today!"}
+
+### Emojify - Love
+POST http://localhost:8000/emojify
+Content-Type: application/json
+
+{"text": "I love you"}
+
+### Emojify - Weather
+POST http://localhost:8000/emojify
+Content-Type: application/json
+
+{"text": "It's raining outside"}
+
+### Emojify - Celebration
+POST http://localhost:8000/emojify
+Content-Type: application/json
+
+{"text": "Happy birthday! Let's party!"}
+
